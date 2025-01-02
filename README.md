@@ -75,3 +75,23 @@
 ## Place Orders
 
 - Proceed to checkout and use the mock payment gateway to complete your order
+
+### Screenshots
+Home Page
+![Home Page](https://github.com/user-attachments/assets/7d2f762a-80af-46ca-aab1-99cf9a44bdc6)
+
+Restaurant List
+![Restaurent List](https://github.com/user-attachments/assets/422e9ab5-5860-416b-9041-ce9942253747)
+
+Cart
+![Cart](https://github.com/user-attachments/assets/bef3b5eb-908f-493d-8bb8-54834ada32f2)
+
+Domino's Menu (Added Statically)
+![Dominos Menu](https://github.com/user-attachments/assets/1e755a91-28fb-4134-b0ae-109406f2bf94)
+
+User Profile
+![User Profile](https://github.com/user-attachments/assets/6645d16d-aa4c-447f-be2a-1927a49c8e68)
+
+Mock Payment
+![Mock Payment](https://github.com/user-attachments/assets/e2e3afd4-74aa-468f-8030-66a0e6343357)
+
