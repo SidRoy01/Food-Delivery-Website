@@ -51,3 +51,27 @@
 ### API:
 
 - Swiggy API: For fetching restaurant and menu details.
+
+## Usage
+
+## Authentication
+
+- Sign up or log in to access your profile, add items to the cart, and place orders
+
+## Explore Restaurants
+
+- Browse through the list of restaurants fetched dynamically from the Swiggy API
+- Use filters to sort and select restaurants based on your preferences
+
+## Manage Cart
+
+- Add items to your cart
+- Modify the cart items directly from the cart view
+
+## Address Management
+
+- Navigate to the profile section to add, edit, or delete addresses
+
+## Place Orders
+
+- Proceed to checkout and use the mock payment gateway to complete your order
